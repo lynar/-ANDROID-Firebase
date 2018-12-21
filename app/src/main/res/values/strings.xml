@@ -1,0 +1,32 @@
+<resources>
+    <!--Main Activity Sign In-->
+    <string name="app_name">Map</string>
+    <string name="Text_SignIn">Sign In</string>
+    <string name="EditText_Pseudo">Email Address</string>
+    <string name="EditText_Password">Enter your Password</string>
+    <string name="Button_SignIn">Continue</string>
+    <string name="Text_SignUp">Sign Up</string>
+
+    <!--Sign up Activity Sign Up Strings-->
+    <string name="Main_Text_SignUp">Sign Up</string>
+    <string name="EditText_NewName">New Name</string>
+    <string name="EditText_NewPseudo">Email Address</string>
+    <string name="EditText_NewPassword">Enter your New Password</string>
+    <string name="Button_SignUp">SIGN UP</string>
+    <string name="Text_BackSignIn">Already Sign Up? Just LogIn</string>
+    <string name="title_activity_LogIn">Log In</string>
+    <string name="title_activity_signup">Sign Up</string>
+    <string name="meet">Meet my friend</string>
+
+    <!--Map Activity Strings-->
+    <string name="Boutton_Envoyer">Send location</string>
+    <string name="Boutton_Meet">Meet your friend (launch GPS)</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="Button_Logout">Log out</string>
+
+    <!--Users List Activity Strings-->
+    <string name="title_activity_userslist">Users</string>
+    <!--Channel ID for the notification-->
+    <string name="default_notification_channel_id">Tvac_CH_01</string>
+
+</resources>
